@@ -1,0 +1,12 @@
+C:\Users\everu\source\repos\builder pattern Character\builder pattern Character\bin\Debug\builder pattern Character.exe.config
+C:\Users\everu\source\repos\builder pattern Character\builder pattern Character\bin\Debug\builder pattern Character.exe
+C:\Users\everu\source\repos\builder pattern Character\builder pattern Character\bin\Debug\builder pattern Character.pdb
+C:\Users\everu\source\repos\builder pattern Character\builder pattern Character\obj\Debug\builder pattern Character.csproj.AssemblyReference.cache
+C:\Users\everu\source\repos\builder pattern Character\builder pattern Character\obj\Debug\builder pattern Character.csproj.SuggestedBindingRedirects.cache
+C:\Users\everu\source\repos\builder pattern Character\builder pattern Character\obj\Debug\builder_pattern_Character.Form1.resources
+C:\Users\everu\source\repos\builder pattern Character\builder pattern Character\obj\Debug\builder_pattern_Character.Properties.Resources.resources
+C:\Users\everu\source\repos\builder pattern Character\builder pattern Character\obj\Debug\builder pattern Character.csproj.GenerateResource.cache
+C:\Users\everu\source\repos\builder pattern Character\builder pattern Character\obj\Debug\builder pattern Character.csproj.CoreCompileInputs.cache
+C:\Users\everu\source\repos\builder pattern Character\builder pattern Character\obj\Debug\builder pattern Character.exe
+C:\Users\everu\source\repos\builder pattern Character\builder pattern Character\obj\Debug\builder pattern Character.pdb
+C:\Users\everu\source\repos\builder pattern Character\builder pattern Character\obj\Debug\builder_pattern_Character.Resource1.resources
